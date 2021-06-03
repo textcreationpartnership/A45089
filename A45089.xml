@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Humble remonstrance of the commission officers and private soldiers of Major General Goffs regiment, so called, of foot presented to His Excellency The Lord Fleetwood and the General Council of Officers of the Army at Wallingford House on April 26, 1659.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45089</idno><idno type="EEBO-CITATION">13513482</idno>
+  <idno type="VID">99858</idno>
+  <idno type="EEBO-PROQUEST">2248499045</idno>
+  
+            <idno type="STC">Wing H3618</idno>
+            <idno type="STC">ESTC R7428</idno>
+            <idno type="OCLC">13513482</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99858)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 791:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Humble remonstrance of the commission officers and private soldiers of Major General Goffs regiment, so called, of foot presented to His Excellency The Lord Fleetwood and the General Council of Officers of the Army at Wallingford House on April 26, 1659.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Subsequently issued with title corrected to: The humble remonstrance of the non-commissioned officers ...</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Goffe, William, 1605?-1679?</term>
+               <term type="corporate_name">England and Wales. --  Army --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99858:1"/>
+            <pb facs="tcp:99858:1"/>
+            <p>The HUMBLE REMONSTRANCE OF THE COMMISSION OFFICERS AND PRIVATE SOLDIERS OF Major General <hi>GOFFS</hi> Regiment (so called) of FOOT.</p>
+            <p>PRESENTED To His EXCELLENCY <hi>The Lord FLEETWOOD,</hi> And the General Council of Officers of the Army at <hi>Wallingford</hi> House, on <hi>April</hi> 26. 1659.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:99858:2"/>
+            <pb facs="tcp:99858:2"/>
+            <head>To his Excellency the Lord <hi>Fleetwood,</hi> and the General Council of Officers of the Army.</head>
+            <head type="sub">The Humble Address of the now Com<g ref="char:EOLhyphen"/>mission Officers and private Souldiers of Major Gen. <hi>Goffs</hi> Regiment (so called) of Foot.</head>
+            <opener>Most Humbly presented under these following Heads.</opener>
+            <p n="1">
+               <hi>1. THat what Persons soever that have Com<g ref="char:EOLhyphen"/>mand in Major Gen.</hi> Goffs <hi>Regiment, who ever willingly deserted their Appearances for the Good Old Cause on the last occasion, we desire they may bear no Command in the Army, and that all such Officers as were put in by Major Gen.</hi> Goffe, <hi>and are of his Relations, who never fought with us in the late Wars, may be forth-with dismissed.</hi>
+            </p>
+            <p n="2">
+               <hi>2. That whatsoever Commission Officers in the Regiment, that hath formerly born Arms in the late Kings Party may speedily be discharged his Imploy<g ref="char:EOLhyphen"/>ment, that have not been eminently known in this Last Trial.</hi>
+            </p>
+            <p n="3">
+               <hi>3. As we have alwaies owned and adventured For the Good Old Cause, so we are resolved to stand for, and maintain it to the Effusion of out blood, and to the pulling down any Arbitrary power shall oppose it.</hi>
+            </p>
+            <p n="4">
+               <hi>4. That as God hath been pleased to stir up the faithful of the Army to a serious Consideration of
+<pb n="2" facs="tcp:99858:3"/>this our present Condition; so we desire incourage<g ref="char:EOLhyphen"/>ment from them to uphold that just and lawful enter<g ref="char:EOLhyphen"/>prize by us begun.</hi>
+            </p>
+            <p n="5">
+               <hi>5. That whereas the Late Lord PROTECTOR hath cast out several faithful and honest Officers, who have been well known to us, and experienced so by us; we desire their Restitution to their places, and to be im<g ref="char:EOLhyphen"/>powred again amongst us.</hi>
+            </p>
+            <p n="6">
+               <hi>6. And because we are in an unsetled Condition; we desire the Good Old Parliament to be again called for the Reparation of our Breaches so well known to them; and that a present order might be issued out for their assembling, the which we rather pray because we have had experience of their faithful service for the general good of the Nation.</hi>
+            </p>
+            <list>
+               <item>John Davis</item>
+               <item>John Harding</item>
+               <item>Danied Johnson</item>
+               <item>William Brown</item>
+               <item>James Benesield</item>
+               <item>Ed. Weaver</item>
+               <item>John Bond</item>
+               <item>Joseph Hinchliffe</item>
+               <item>James Paveley</item>
+               <item>Roger Wingate</item>
+               <item>Will. Porter</item>
+               <item>Edmond Wingate</item>
+               <item>John Caswall</item>
+               <item>Thomas Hedge</item>
+               <item>William Jones</item>
+               <item>John Emmes</item>
+               <item>John Swift</item>
+               <item>Thomas Rowel</item>
+               <item>John Ismay</item>
+               <item>William Rowker</item>
+               <item>Thomas Charmes</item>
+               <item>Nicholas Stanford</item>
+               <item>John Williams</item>
+               <item>Michael Anderson</item>
+               <item>Stephen Horner</item>
+               <item>Robert Newsom</item>
+               <item>John Wayne</item>
+               <item>Richard Walton</item>
+               <item>Jos. Bann.</item>
+               <item>William Atkins</item>
+               <item>Richard Hughes</item>
+               <item>Edward Eusol</item>
+               <item>William Warn</item>
+               <item>Michael Slaterfield</item>
+               <item>Francis Evans</item>
+               <item>Peter Belfloure</item>
+               <item>John Hunt</item>
+               <item>Thomas Rowel</item>
+               <pb n="3" facs="tcp:99858:3"/>
+               <item>William Cowper</item>
+               <item>Daniel Hewson</item>
+               <item>James Kirton</item>
+               <item>Henry Eston</item>
+               <item>John Carlton</item>
+               <item>Edward Parry</item>
+               <item>William Love</item>
+               <item>William Man</item>
+               <item>John Eston</item>
+               <item>Francis Browne</item>
+               <item>John Lee</item>
+               <item>John Garaway</item>
+               <item>Richard Nash</item>
+               <item>Roger Dove</item>
+               <item>John Fuller</item>
+               <item>James Tootell</item>
+               <item>William Coole</item>
+               <item>James de le Motte</item>
+               <item>John Scott</item>
+               <item>John Hayes</item>
+               <item>George Pudsey</item>
+               <item>James Hall</item>
+               <item>William Jenkins</item>
+               <item>Francis Jackson</item>
+               <item>John Soane</item>
+               <item>James Cooke</item>
+               <item>Richard Barber</item>
+               <item>John Ingles</item>
+               <item>Richard Fowler</item>
+               <item>William Donford</item>
+               <item>Thomas Past</item>
+               <item>Thomas Barneett</item>
+               <item>Joseph Paniel</item>
+               <item>Richard Flid</item>
+               <item>Edward Robardson</item>
+               <item>John Temple</item>
+               <item>Samuel Sewestor</item>
+               <item>Ralph Booker</item>
+               <item>Henry Coats</item>
+               <item>Roger Stanton</item>
+               <item>John Garratt</item>
+               <item>Robert Crispe</item>
+               <item>Ben. Sanford</item>
+               <item>John Fencourt</item>
+               <item>Nicholas Ʋsher</item>
+               <item>John Chambers</item>
+               <item>Stephen Jacope</item>
+               <item>Thomas Skinner</item>
+               <item>John Wiffin</item>
+               <item>Robert Shephard</item>
+               <item>John Pool</item>
+               <item>William Pennel</item>
+               <item>Matthias Baker</item>
+               <item>William Hawley</item>
+               <item>Philip Hobey</item>
+               <item>Simon Grenil</item>
+               <item>Henry Rampton</item>
+               <item>William Carter</item>
+               <item>Roger Grenaway</item>
+               <item>John Bradaway</item>
+               <item>Richard Harlope</item>
+               <item>Thomas Lenton</item>
+               <item>William Clark</item>
+               <item>Robert Westcombe</item>
+               <item>Robert Johnson</item>
+               <item>Robert Sooley</item>
+               <item>Robert Maling</item>
+               <item>William Faton</item>
+               <item>John Joans</item>
+               <item>John Mathewes</item>
+               <item>John Harris</item>
+               <item>Joseph Harrison</item>
+               <item>James Pope</item>
+               <item>William Wilkinson</item>
+               <item>Christopher Bland</item>
+               <pb n="4" facs="tcp:99858:4"/>
+               <item>Robert Mason</item>
+               <item>Robert Blundell</item>
+               <item>Thomas Phillips</item>
+               <item>John Hiscocks</item>
+               <item>Edmund Horsey</item>
+               <item>Edward Hob<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey</item>
+               <item>Thomas Hayme</item>
+               <item>Per<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ival Sutton</item>
+               <item>Robert Hearne</item>
+               <item>Henry Campin</item>
+               <item>William Sutton</item>
+               <item>Richard Bowdell</item>
+               <item>David Williams</item>
+               <item>William Carter</item>
+               <item>Jestilian Mercer</item>
+               <item>Thomas Palmer</item>
+               <item>William Pecker</item>
+               <item>Philip Levermore</item>
+               <item>John Nast</item>
+               <item>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thur Crossman</item>
+               <item>John Burges</item>
+               <item>D<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nis Kellet</item>
+               <item>Jeffery Cardin</item>
+               <item>John Hearecastell</item>
+               <item>William Howell</item>
+               <item>William Lunn</item>
+               <item>William More</item>
+               <item>George Peacock</item>
+               <item>John Feilde</item>
+               <item>John Salter</item>
+               <item>John Collier</item>
+               <item>Henry Rocket</item>
+               <item>John Buck</item>
+               <item>Thomas Godsrey</item>
+               <item>Christopher Cole</item>
+               <item>Thomas Scot</item>
+               <item>Thomas Langley</item>
+               <item>John Bowin</item>
+               <item>Richard Watts</item>
+               <item>John Keepng</item>
+               <item>John Farr</item>
+               <item>Richard Saurder</item>
+               <item>John Stocker</item>
+               <item>Edward Joans</item>
+               <item>John Arden</item>
+               <item>Robert Garwood</item>
+               <item>William Brittin</item>
+               <item>Mat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hew Hornner</item>
+               <item>Thomas Bucher</item>
+               <item>Oliver Axworthy</item>
+               <item>Roger Wittchurch</item>
+               <item>George Hull</item>
+               <item>Edward Swan</item>
+               <item>Francis Ayre</item>
+               <item>Thomas Basset</item>
+               <item>William Jellibrowne</item>
+               <item>Jo. White</item>
+               <item>Andrew Harris</item>
+               <item>Henry Duffin</item>
+               <item>Nicholas Muncaster</item>
+               <item>James Harrel</item>
+               <item>William Irish</item>
+               <item>Dan. Jackson</item>
+               <item>John Crackwell</item>
+               <item>Henry Rollinson</item>
+               <item>Nathaniel Jeffryes</item>
+               <item>William Win</item>
+               <item>George Tyndall</item>
+               <item>William Sumerwell</item>
+               <item>James Williams</item>
+               <item>Gregory Cooke</item>
+               <item>William Long</item>
+               <item>Edward Blackborne</item>
+               <item>Daniel Wright</item>
+               <item>Obadiah Dearifould</item>
+               <pb n="5" facs="tcp:99858:4"/>
+               <item>Robert Tompson</item>
+               <item>Henry Clubb</item>
+               <item>Richard Coaleman</item>
+               <item>Richard Richardson</item>
+               <item>Isaac Richardson</item>
+               <item>Hugh Davis</item>
+               <item>Owen Joanes</item>
+               <item>William Baldwin</item>
+               <item>Thomas Crispe</item>
+               <item>Tho. Greenupp</item>
+               <item>James Dalby</item>
+               <item>Thomas Moale</item>
+               <item>George Bowles</item>
+               <item>Daniel Sanderson</item>
+               <item>Thomas Smith</item>
+               <item>Benjamin Leaver</item>
+               <item>Nichol. Muncaster</item>
+               <item>William Fox</item>
+               <item>Richard Styleman</item>
+               <item>Robert Dudley</item>
+               <item>Tho. Harrison</item>
+               <item>George Greensall</item>
+               <item>Daniel Taylor</item>
+               <item>Joseph Newton</item>
+               <item>John Wheeler</item>
+               <item>John Smith <hi>jun.</hi>
+               </item>
+               <item>John Smith <hi>sen.</hi>
+               </item>
+               <item>William Carter</item>
+               <item>Io Meldrum</item>
+               <item>Christopher Godwin</item>
+               <item>Iohn Farr</item>
+               <item>Thomas Iackson</item>
+               <item>Roger Linsey</item>
+               <item>Simon Lucas</item>
+               <item>Iames Bickerton</item>
+               <item>Thomas Bacon</item>
+               <item>Thomas Beard</item>
+               <item>Richard Croswick</item>
+               <item>Thomas Goare</item>
+               <item>Stephen Brokes</item>
+               <item>Thomas Willmott</item>
+               <item>William Gibson</item>
+               <item>William Humfreys</item>
+               <item>Thomas Marshall</item>
+               <item>William Marshall</item>
+               <item>James Stare</item>
+               <item>Thom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Christopher</item>
+               <item>John Miles</item>
+               <item>John Michel</item>
+               <item>Andrew Foote</item>
+               <item>Miles Penry</item>
+               <item>John Hill</item>
+               <item>Rowland Stevenson</item>
+               <item>John Sellers</item>
+               <item>Moses Wren</item>
+               <item>William F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrest</item>
+               <item>Robert Newson</item>
+               <item>Francis Smi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</item>
+               <item>Robert Gibson</item>
+               <item>Thomas Heckford</item>
+               <item>John Stanley</item>
+               <item>Nicholas Jarrat</item>
+               <item>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff. Lightfoot</item>
+               <item>James Stac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>William Wallis</item>
+               <item>John Winter</item>
+               <item>George Leac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</item>
+               <item>John Beaton</item>
+               <item>Edward Everit</item>
+               <item>George Aldridg</item>
+               <item>John Adkinson</item>
+               <item>John Sneth</item>
+               <item>John Young</item>
+               <item>Thomas Somes</item>
+               <item>John Knights</item>
+               <item>Thomas Rather</item>
+               <item>John Morehead</item>
+               <item>Isaac Swaine</item>
+               <item>Nathaniel Nichols</item>
+               <item>Humphrey Jones</item>
+               <item>Robert Long</item>
+               <item>Philip Wadkins</item>
+               <item>Will. Blumstead</item>
+               <item>Henry Hughes</item>
+               <item>John Semance</item>
+               <item>John Rawson.</item>
+               <item>Christop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Linley</item>
+               <item>George Heuley</item>
+               <item>Christ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph. Barren</item>
+               <item>Pat. Care</item>
+               <item>James Banit</item>
+               <item>Alexander Turner</item>
+               <item>Hugh Davis</item>
+               <item>Hugh Predgit</item>
+               <item>Robert Rolfe</item>
+               <item>William Clark</item>
+               <item>Roger Wood</item>
+               <item>Samuel Parkhust</item>
+               <item>Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hol. Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>shall</item>
+               <item>Thomas Wattson</item>
+               <item>Simon Barance</item>
+               <item>Thomas Bugg</item>
+               <item>John Walker</item>
+               <item>Richard Paine</item>
+               <item>Tho. White</item>
+               <item>Oliver Carter</item>
+               <item>Nicholas Dobson</item>
+               <item>Ambros Brake</item>
+               <item>George Lensi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>William Allin</item>
+               <item>William Hieron</item>
+               <item>William Wood</item>
+               <item>Richard Peart</item>
+               <item>Thomas Paris</item>
+               <pb n="6" facs="tcp:99858:5"/>
+               <item>William Tomson</item>
+               <item>John Hollaway</item>
+               <item>William Sample</item>
+               <item>Edward Stasie</item>
+               <item>Wil. Addenton</item>
+               <item>John Hull</item>
+               <item>William Blacket<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>John Ells</item>
+               <item>W. R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berson, <hi>Jun.</hi>
+               </item>
+               <item>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Hampton</item>
+               <item>John Mallison</item>
+               <item>Iohn Wright</item>
+               <item>Iohn Rowe</item>
+               <item>Lewis Thomas</item>
+               <item>Robert Chilmus</item>
+               <item>Iohn Ranouls</item>
+               <item>Iohn Bond</item>
+               <item>Robert Hackett</item>
+               <item>Thomas Price</item>
+               <item>Iohn Potter</item>
+               <item>W. Roberson, <hi>Sen.</hi>
+               </item>
+               <item>Edward Hamby</item>
+               <item>Thomas Riches</item>
+               <item>Iohn N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wmas</item>
+               <item>Iohn Tod</item>
+               <item>Thomas Langfield</item>
+               <item>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bert Riches</item>
+               <item>Thomas Test</item>
+               <item>Hugh Doltow</item>
+               <item>Thomas Evans</item>
+               <item>Iohn Har<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff</item>
+               <item>Iohn Whitaker</item>
+               <item>Patrick Shatell</item>
+               <item>Thomas Cooper</item>
+               <item>Francis Segod</item>
+               <item>Nicholas Searle</item>
+               <item>Thomas Stockwell</item>
+               <item>Iohn Horne</item>
+               <item>Iohn Scott</item>
+               <item>Godsrey Woodsow</item>
+               <item>Martin Howard</item>
+               <item>Henry Caling m</item>
+               <item>Iohn Brown</item>
+               <item>Thomas Brandig</item>
+               <item>Thomas Wright</item>
+               <item>Thomas Long</item>
+               <item>Roger Pew</item>
+               <item>Geo. Griffin, <hi>Sen.</hi>
+               </item>
+               <item>Iohn Myares</item>
+               <item>Henry Hegons</item>
+               <item>Henry Bonser.</item>
+               <item>Iohn Sly</item>
+               <item>Thomas Robinson</item>
+               <item>George Scot</item>
+               <item>Iohn Stafford</item>
+               <item>Samuel Allen</item>
+               <item>Anthony Brown</item>
+               <item>Thomas Willson</item>
+               <item>Thomas Strong</item>
+               <item>Michael Holmes</item>
+               <item>Richard Ballard</item>
+               <item>Robert Parber</item>
+               <item>Thomas Man</item>
+               <item>Iohn Mare</item>
+               <item>Ioseph Harvy</item>
+               <item>Adam Bumster</item>
+               <item>Richard Hartley</item>
+               <item>Iames Walmsly</item>
+               <item>William Smith</item>
+               <item>Iohn Sanders</item>
+               <item>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nry Blabman</item>
+               <item>Richard Stokes</item>
+               <item>George Griffin <hi>jun.</hi>
+               </item>
+               <item>William Braderton</item>
+               <item>Thomas Pierce</item>
+               <item>Edward Jordan</item>
+               <item>Thomas Till.</item>
+               <item>A. Wray</item>
+               <item>James Cuvant</item>
+               <item>Robert King</item>
+               <item>Henry Gwile</item>
+               <item>Edward Castel</item>
+               <item>Henry Fryth</item>
+               <item>Kobert Ben</item>
+               <item>Thomas Stanton</item>
+               <item>William Febon</item>
+               <item>John Holmes</item>
+               <item>William Blunt</item>
+               <item>William Mason</item>
+               <item>Richard Davis.</item>
+            </list>
+            <p>
+               <hi>This was delivered this day, being the 26 of</hi> April, <hi>to his Excellency the Lord Fleetwood, and to the Councel of Offi<g ref="char:EOLhyphen"/>cers at Wallingford House.</hi>
+            </p>
+            <p>FINIS.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
